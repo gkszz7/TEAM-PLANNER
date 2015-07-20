@@ -5,18 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Insert title here</title>
-<style type="text/css">
-	#headmenu {
-	position: fixed;
-	top: 0;
-	width: 100%;
-	height: 40px;
-	background-color: #404040;
-	text-align: left;
-	color: #ffffff;
-	padding: 5px 15px 5px;
-}
-</style>
+<link rel="Stylesheet" href="/finalProject/resources/styles/header.css" />
 </head>
 <body>
 	<div id="headmenu">

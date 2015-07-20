@@ -1,1 +1,8 @@
-@CHARSET "EUC-KR";
+#headmenu {
+  background: #026aa7;
+  height: 30px;
+  overflow: hidden;
+  padding: 5px;
+  position: relative;
+  z-index: 10;
+}
