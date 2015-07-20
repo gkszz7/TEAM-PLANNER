@@ -6,9 +6,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Insert title here</title>
 <link rel="Stylesheet" href="/finalProject/resources/styles/header.css" />
+<link rel="Stylesheet" href="/finalProject/resources/styles/body.css" />
+
 
 </head>
-<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<body >
 	<div id="headmenu">
 		<% pageContext.include("/WEB-INF/views/include/header.jsp"); %>
 	</div>
