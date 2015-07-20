@@ -1,4 +1,4 @@
-package com.mvc.teamproject.controller;
+package com.mvc.teamplanner.controller;
 
 import java.util.Locale;
 
