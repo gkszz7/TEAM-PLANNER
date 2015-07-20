@@ -7,8 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<div id="searchName">
+		Search
+	</div>
 	<div id="search">
-		asdqwe
+		Search
 	</div>
 </body>
 </html>
