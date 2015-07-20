@@ -8,7 +8,7 @@
 <link rel="Stylesheet" href="/finalProject/resources/styles/header.css" />
 
 </head>
-<body>
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
 	<div id="headmenu">
 		<% pageContext.include("/WEB-INF/views/include/header.jsp"); %>
 	</div>
