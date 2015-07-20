@@ -22,8 +22,5 @@
 	<div id="headmenu">
 		<% pageContext.include("/WEB-INF/views/include/header.jsp"); %>
 	</div>
-	<div align="center">
-		<h2>This is TeamPlanner</h2>
-	</div>
 </body>
 </html>
